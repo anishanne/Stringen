@@ -3,6 +3,6 @@
   "dependencies": {
     "npm": "6.9.0",
     "express": "4.16.4",
-    "yarn": "1.15.2"
+    "yarn": "1.22.0"
   }
 }
